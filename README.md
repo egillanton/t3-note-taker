@@ -1,6 +1,9 @@
-# Create T3 App
+# Note taker
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+
+# Getting an OAuth Clinet ID
+Here is how you get [OAuth Client ID](https://scribehow.com/shared/Github_Workflow_to_create_OAuth_tokens__z9mVQPAaRJ2IUAKgKs0DGA)
 
 ## What's next? How do I make an app with this?
 
